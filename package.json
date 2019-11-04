@@ -1,0 +1,17 @@
+{
+  "name": "website-dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dest"
+  },
+  "keywords": [],
+  "author": "Wisam Basheir",
+  "license": "ISC",
+  "homepage": "https://wisam450.github.io/website-test",
+  "dependencies": {
+    "dev": "^0.1.3",
+    "gh-pages": "^2.1.1"
+  }
+}
